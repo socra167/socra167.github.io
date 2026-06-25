@@ -1045,7 +1045,7 @@ int maxVal = Math.max(10, 20);  // 20
 int minVal = Math.min(10, 20);  // 10
 ```
 
-**Math.power() : 거듭제곱 (Power)**
+**Math.pow() : 거듭제곱 (Power)**
 
 ```java
 double powVal = Math.pow(2, 3);  // 2^3 = 8.0
